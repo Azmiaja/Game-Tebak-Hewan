@@ -1,0 +1,89 @@
+Manakah Hewan Badak ?;
+2;
+3;
+1;
+1;
+|
+Manakah Hewan Gajah ?;
+2;
+13;
+9;
+2;
+|
+Manakah Hewan Harimau ?;
+12;
+3;
+11;
+3;
+|
+Manakah Hewan Jerapah ?;
+0;
+13;
+4;
+4;
+|
+Manakah Hewan Kambing ?;
+5;
+6;
+10;
+5;
+|
+Manakah Hewan Kuda ?;
+7;
+6;
+14;
+7;
+|
+Manakah Hewan Landak ?;
+8;
+12;
+0;
+8;
+|
+Manakah Hewan Panda ?;
+10;
+8;
+9;
+9;
+|
+Manakah Hewan Sapi ?;
+2;
+10;
+13;
+10;
+|
+Manakah Hewan Singa ?;
+3;
+11;
+7;
+11;
+|
+Manakah Hewan Kelinci ?;
+0;
+12;
+8;
+0;
+|
+Manakah Hewan Keledai ?;
+7;
+13;
+6;
+6;
+|
+Manakah Hewan Tupai ?;
+0;
+12;
+8;
+12;
+|
+Manakah Hewan Unta ?;
+7;
+6;
+13;
+13;
+|
+Manakah Hewan Zebra ?
+10;
+14;
+6;
+14;
